@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sunday-gaming-ranking/static/css/main.9e2360b8.css",
+    "main.js": "/sunday-gaming-ranking/static/js/main.f99c4bdc.js",
+    "index.html": "/sunday-gaming-ranking/index.html",
+    "main.9e2360b8.css.map": "/sunday-gaming-ranking/static/css/main.9e2360b8.css.map",
+    "main.f99c4bdc.js.map": "/sunday-gaming-ranking/static/js/main.f99c4bdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e2360b8.css",
+    "static/js/main.f99c4bdc.js"
+  ]
+}
